@@ -1,0 +1,9 @@
+09/01/2022 22:33:13 - https://random-status-code.herokuapp.com - online: true
+09/01/2022 22:33:15 - https://www.caelum.com.br - online: true
+09/01/2022 22:33:15 - https://www.google.com.br - online: true
+09/01/2022 22:33:21 - https://random-status-code.herokuapp.com - online: true
+09/01/2022 22:33:22 - https://www.caelum.com.br - online: true
+09/01/2022 22:33:22 - https://www.google.com.br - online: true
+09/01/2022 22:33:27 - https://random-status-code.herokuapp.com - online: false
+09/01/2022 22:33:28 - https://www.caelum.com.br - online: true
+09/01/2022 22:33:28 - https://www.google.com.br - online: true
